@@ -1,0 +1,41 @@
+
+
+section, footer {
+    margin: 40px;
+}
+
+ /*{
+    font-size: 60px;
+    color: #303030;
+    padding: 25px;
+    color: aliceblue;
+    text-align: center;
+}*/
+
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+nav {
+    font-weight: 700;
+}
+
+
+figure, img, video {
+    width: 350px;
+}
+
+video {
+    width: 90%;
+}
+
+.carousel-caption h5 {
+    font-size: 80px;
+    color:darkorange;
+    text-shadow: 2px 2px 2px black;
+
+}
+
